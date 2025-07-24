@@ -1,10 +1,10 @@
-📊 Business Analytics Project with R: Customer Insights & Churn Prediction
+## 📊 Business Analytics Project with R: Customer Insights & Churn Prediction
 
 This project explores a business dataset to derive customer insights and build a predictive model for churn using R. It demonstrates how data-driven decision-making can enhance customer retention strategies and improve business performance.
 
 ---
 
-📌 Project Objectives
+## 📌 Project Objectives
 
 - Analyze customer demographics, satisfaction, spending patterns, and service usage.
 - Explore key drivers of customer churn.
@@ -13,7 +13,7 @@ This project explores a business dataset to derive customer insights and build a
 
 ---
 
-📂 Dataset Overview
+## 📂 Dataset Overview
 
 The dataset contains 3,200 customer records and 12 variables, including:
 
@@ -34,7 +34,7 @@ The dataset contains 3,200 customer records and 12 variables, including:
 
 ---
 
-🧠 Key Insights
+## 🧠 Key Insights
 
 - Churn rate is significantly higher among monthly contract customers.
 - Low satisfaction scores are strong predictors of churn.
@@ -55,7 +55,7 @@ A Logistic Regression model was trained to predict churn. Key predictors:
 - Average Purchase Value  
 - Customer Service Calls
 
-🎯 Model Performance (Confusion Matrix Output):
+## 🎯 Model Performance (Confusion Matrix Output):
 - High accuracy (80%) and good class separation
 - Useful for identifying high-risk customers
 
